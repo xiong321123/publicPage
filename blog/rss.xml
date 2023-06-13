@@ -9,10 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。‘’‘gghogikgfvjkbi一束花。‘’‘]]></title>
+            <title><![CDATA[妈妈的生日礼物]]></title>
             <link>https://github.com/publicPage/blog/123</link>
             <guid>https://github.com/publicPage/blog/123</guid>
             <pubDate>Tue, 13 Jun 2023 07:35:10 GMT</pubDate>
+            <description><![CDATA[今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。]]></description>
+            <content:encoded><![CDATA[<p>今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[学校老师讲的内容没有趣时，你该怎么办？——如何选择要做的事情]]></title>

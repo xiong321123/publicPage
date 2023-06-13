@@ -8,10 +8,12 @@
     <subtitle>王雄的积累人生 Blog</subtitle>
     <icon>https://github.com/publicPage/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。‘’‘gghogikgfvjkbi一束花。‘’‘]]></title>
+        <title type="html"><![CDATA[妈妈的生日礼物]]></title>
         <id>https://github.com/publicPage/blog/123</id>
         <link href="https://github.com/publicPage/blog/123"/>
         <updated>2023-06-13T07:35:10.457Z</updated>
+        <summary type="html"><![CDATA[今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。]]></summary>
+        <content type="html"><![CDATA[<p>今天妈妈生日，土豆和爸爸一起给妈妈买了一束花。</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[学校老师讲的内容没有趣时，你该怎么办？——如何选择要做的事情]]></title>
